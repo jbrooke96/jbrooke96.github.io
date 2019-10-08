@@ -1,0 +1,122 @@
+html {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	padding: 55px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	line-height: 16px;
+	background-color: #F2F3F4;
+}
+
+header {
+	padding: 40px;
+	background-color: #FFBB61;
+	-webkit-border-radius: 15px 15px 0 0;
+	border-radius: 15px 15px 0 0;
+	-webkit-box-shadow: 3px 3px 3px 5px #F39C12;
+}
+
+nav {
+	float: left;
+	margin-bottom: 30px;
+}
+
+nav ul li {
+	list-style-type: none;
+	float: left;
+	padding: 20px;
+	margin-right: 20px;
+	background-color: #FFBB61;
+}
+
+nav li a {
+	text-decoration: none;
+	color: #000000;
+}
+
+nav li a:hover {
+	color: #F6F2F2;
+}
+	
+main {
+	clear: left;
+	padding-left: 60px;
+	
+}
+
+footer {
+	background-color: #FFBB61;
+	padding: 40px;
+	-webkit-box-shadow: 3px 3px 3px 5px #F39C12;
+	border-radius: 0 0 15px 15px;
+	-webkit-border-radius: 0 0 15px 15px;
+	font-family: 'Philosopher', sans-serif;
+	font-size: 20px;
+}
+
+footer p {
+	text-align: center;
+	-webkit-border-radius: 0 0 15px 15px;
+	
+}
+
+h1 {
+	color: #000000;
+	font-size: 40px;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	padding: 15px;
+	margin-bottom: 7px;
+}
+
+h2 {
+	font-size: 25px;
+	margin-top: 14px;
+	margin-bottom: 7px;
+	text-align: center;
+	font-family: 'Philosopher', sans-serif;;
+}
+
+h3 {
+	text-align: center;
+	font-size: 20px;
+	margin-top: 16px;
+	margin-bottom: 7px;
+	font-family: 'Philosopher', sans-serif;
+}
+
+{
+	margin-top: 14px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+}
+
+.job-title {
+	font-weight: bold;
+	padding: 0;
+	margin: 0;
+	
+}
+
+.job-place {
+	font-style: italic;
+	padding: 0;
+	margin: 0;
+	
+}
+
+.job-dates {
+	padding: 0;
+	margin: 0;
+	
+}
+
+p {
+	line-height: 17px;
+	font-size: 14px;
+}
+
+			
